@@ -1,3 +1,3 @@
-# static-html-template
+# Grace Do Link-in-bio
 
-Use this template to create static HTML websites and deploy them on Render.
+A simple, linktree-like website to introduce about myself online, with links to Github page, Linkedin profile, and some of my favorite things.
